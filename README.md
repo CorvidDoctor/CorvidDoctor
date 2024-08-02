@@ -6,6 +6,7 @@
 <h2> • <a href = "https://github.com/CorvidDoctor/Java-Hangman" target = "_blank"> Hangman </h2>
 <h2> • <a href = "https://github.com/CorvidDoctor/Bad-Galaga" target = "_blank"> Off-Brand Galaga-Flappybird Hybrid </h2>
 <h2> • <a href = "https://github.com/CorvidDoctor/Blackjack-in-Python" target = "_blank"> Blackjack</h2>
+<p align = "center"> Check out my <a href = "https://github.com/CorvidDoctor?tab=repositories" target = "_blank"> repository</a> for more!</p>
 
 <h1 align = "center"> WHAT DO I KNOW? </h1>
 <p align = "center"> Currently, I am a high school senior who studies both Computer Science and Psychology, with the hope of becoming a psychologist one day! </p>
