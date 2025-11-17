@@ -1,6 +1,4 @@
 <h1 align = "center"> WHO AM I? </h1>
-<p align = "center"> Howdy! My name is Gage Larabee and you--yes, you--are currently viewing my first (and only) GitHub page! </p>
-<p align = "center"> Thanks for that, I guess. So, here you can see some of my (not-so-good) work-in-progress projects. </p>
 
 <h2> Some examples: </h2>
 <h2> • <a href = "https://github.com/CorvidDoctor/Java-Hangman" target = "_blank"> Hangman </h2>
