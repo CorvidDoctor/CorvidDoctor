@@ -7,8 +7,7 @@
 <p align = "center"> Check out my <a href = "https://github.com/CorvidDoctor?tab=repositories" target = "_blank"> repository</a> for more!</p>
 
 <h1 align = "center"> WHAT DO I KNOW? </h1>
-<p align = "center"> Currently, I am a high school senior who studies both Computer Science and Psychology, with the hope of becoming a psychologist one day! </p>
-<p align = "center"> But, in the meantime, I work on CS projects--like making really bad video games! </p>
+<p align = "center"> I work on CS projects--like making really bad video games! </p>
 <p align = "center"> I have my Microsoft IT Certification as well. </p>
 
 <h2> Languages I know: </h2>
